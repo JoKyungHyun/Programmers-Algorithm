@@ -1,7 +1,7 @@
 package Level01;
 
 public class Problem01 {
-	public static long solution(int a, int b){
+	public static long solution(int a, int b) {
     long sum = 0;
     if(a > b){
         for(int i = 1; i < (a-b); i++){
