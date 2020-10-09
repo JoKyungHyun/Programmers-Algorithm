@@ -16,7 +16,6 @@ public class Problem01 {
 			}
 			prices[i] = sum;
 		}
-
 		return answer;
 	}
 
